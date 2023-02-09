@@ -16,7 +16,9 @@
 
     <packaging>pom</packaging>
 
-
+    <modules>
+        <module>java-9-module-projects</module>
+    </modules>
     <build>
         <pluginManagement>
             <plugins>

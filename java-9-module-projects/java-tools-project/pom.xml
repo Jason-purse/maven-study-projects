@@ -14,11 +14,7 @@
 
 
     <dependencies>
-        <dependency>
-            <groupId>club.smileboy</groupId>
-            <artifactId>java-tools-project</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
+
     </dependencies>
 
 
@@ -31,6 +27,10 @@
                     <source>17</source>
                     <target>17</target>
                     <compilerArgs>
+                        <arg>--add-modules=java.base</arg>
+                        <arg>--add-modules=java.compiler</arg>
+                        <arg>--add-opens=java.base/java.lang=ALL-UNNAMED</arg>
+                        <arg>--add-opens=java.base/java.lang.reflect=ALL-UNNAMED</arg>
                         <arg>--add-exports=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED</arg>
                         <arg>--add-exports=jdk.compiler/com.sun.tools.javac.model=ALL-UNNAMED</arg>
                         <arg>--add-exports=jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED</arg>

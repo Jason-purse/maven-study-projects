@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-9-module-projects/java-9-module-projects.iml" filepath="$PROJECT_DIR$/java-9-module-projects/java-9-module-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-9-module-projects/java-tools-project/java-tools-project.iml" filepath="$PROJECT_DIR$/java-9-module-projects/java-tools-project/java-tools-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-study-projects.iml" filepath="$PROJECT_DIR$/maven-study-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-9-module-projects/normal-java-file-provider-project/normal-java-file-provider-project.iml" filepath="$PROJECT_DIR$/java-9-module-projects/normal-java-file-provider-project/normal-java-file-provider-project.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,19 +1,15 @@
 package club.smileboy;
 
 import com.sun.source.tree.CompilationUnitTree;
-import com.sun.source.tree.Tree;
-import com.sun.source.util.*;
+import com.sun.source.util.JavacTask;
+import com.sun.source.util.Trees;
 import com.sun.tools.javac.api.JavacTaskImpl;
-import com.sun.tools.javac.comp.Attr;
 import com.sun.tools.javac.model.JavacElements;
 import com.sun.tools.javac.tree.JCTree;
-import com.sun.tools.javac.tree.TreeInfo;
-import com.sun.tools.javac.tree.TreeMaker;
 import com.sun.tools.javac.tree.TreeTranslator;
 import com.sun.tools.javac.util.Context;
 
 import javax.lang.model.element.Element;
-import javax.lang.model.element.ElementKind;
 import javax.tools.JavaCompiler;
 import javax.tools.JavaFileObject;
 import javax.tools.StandardJavaFileManager;
