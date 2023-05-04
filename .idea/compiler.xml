@@ -6,15 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="module-name-write-plugin-test" />
         <module name="java-tools-project" />
+        <module name="lightning-module-name-plugin" />
         <module name="normal-java-file-provider-project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-9-module-projects" target="17" />
       <module name="java-tools-project" target="17" />
+      <module name="lightning-module-name-plugin" target="1.8" />
       <module name="maven-study-projects" target="17" />
+      <module name="module-name-write-plugin-test" target="17" />
       <module name="normal-java-file-provider-project" target="17" />
+      <module name="plugin-tests" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

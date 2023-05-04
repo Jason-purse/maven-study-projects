@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-9-module-projects/java-9-module-projects.iml" filepath="$PROJECT_DIR$/java-9-module-projects/java-9-module-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-9-module-projects/java-tools-project/java-tools-project.iml" filepath="$PROJECT_DIR$/java-9-module-projects/java-tools-project/java-tools-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lightning-module-name-plugin/lightning-module-name-plugin.iml" filepath="$PROJECT_DIR$/lightning-module-name-plugin/lightning-module-name-plugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/maven-study-projects.iml" filepath="$PROJECT_DIR$/maven-study-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-tests/module-name-write-plugin-test/module-name-write-plugin-test.iml" filepath="$PROJECT_DIR$/plugin-tests/module-name-write-plugin-test/module-name-write-plugin-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-9-module-projects/normal-java-file-provider-project/normal-java-file-provider-project.iml" filepath="$PROJECT_DIR$/java-9-module-projects/normal-java-file-provider-project/normal-java-file-provider-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin-tests/plugin-tests.iml" filepath="$PROJECT_DIR$/plugin-tests/plugin-tests.iml" />
     </modules>
   </component>
 </project>

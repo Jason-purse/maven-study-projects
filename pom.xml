@@ -18,6 +18,8 @@
 
     <modules>
         <module>java-9-module-projects</module>
+        <module>plugin-tests</module>
+        <module>lightning-module-name-plugin</module>
     </modules>
     <build>
         <pluginManagement>
